@@ -1,4 +1,6 @@
-Статусы файлов:
+Используется [mermaid-схема](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+
+Статусы файлов в git:
 
 ```mermaid
 %% описание схемы
